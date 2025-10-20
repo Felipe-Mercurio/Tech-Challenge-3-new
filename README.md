@@ -24,7 +24,6 @@ Aplicação **frontend** desenvolvida em **React** para gerenciar veículos, com
 ## 🧰 Tecnologias utilizadas
 
 - **React 18+**
-- **Vite** (opcional, se o projeto foi criado com Vite)
 - **React Router DOM**
 - **Axios** — para integração com o backend
 - **Tailwind CSS** — para estilização rápida e responsiva
