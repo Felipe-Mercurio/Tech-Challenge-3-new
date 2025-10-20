@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS vehicles (
+  id SERIAL PRIMARY KEY,
+  placa VARCHAR(10) UNIQUE NOT NULL,
+  marca VARCHAR(50),
+  modelo VARCHAR(50),
+  ano INT,
+  cor VARCHAR(30)
+);
